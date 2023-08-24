@@ -1,17 +1,17 @@
 .odd {
-    background-color: pink;
+    background-color: #e381d8;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 #two {
-    color: blue;
+    color: hsl(202, 50%, 60%);
     font-size: 36px;
 }
 .three {
     font-size: 24px;
 }
 #four {
-    background-color:lightgreen;
+    background-color: rgb(102, 204, 139);
     font-size: 24px;
     font-weight: bold;
 }
